@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unerrored&label=Views&color=800eb5&style=flat" alt="unerrored" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unerrored" alt="unerrored" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unerrored&theme=monokai" alt="unerrored" /></a> </p>
+
 
 - 🔭 I’m currently working on **cybersecurity tools.**
 
